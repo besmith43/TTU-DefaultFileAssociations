@@ -1,0 +1,9 @@
+C:\Users\besmi\Development\TTU-DefaultFileAssociations\obj\Debug\net48\TTU-DefaultFileAssociations.csprojAssemblyReference.cache
+C:\Users\besmi\Development\TTU-DefaultFileAssociations\obj\Debug\net48\TTU-DefaultFileAssociations.AssemblyInfoInputs.cache
+C:\Users\besmi\Development\TTU-DefaultFileAssociations\obj\Debug\net48\TTU-DefaultFileAssociations.AssemblyInfo.cs
+C:\Users\besmi\Development\TTU-DefaultFileAssociations\obj\Debug\net48\TTU-DefaultFileAssociations.csproj.CoreCompileInputs.cache
+C:\Users\besmi\Development\TTU-DefaultFileAssociations\bin\Debug\net48\TTU-DefaultFileAssociations.exe.config
+C:\Users\besmi\Development\TTU-DefaultFileAssociations\bin\Debug\net48\TTU-DefaultFileAssociations.exe
+C:\Users\besmi\Development\TTU-DefaultFileAssociations\bin\Debug\net48\TTU-DefaultFileAssociations.pdb
+C:\Users\besmi\Development\TTU-DefaultFileAssociations\obj\Debug\net48\TTU-DefaultFileAssociations.exe
+C:\Users\besmi\Development\TTU-DefaultFileAssociations\obj\Debug\net48\TTU-DefaultFileAssociations.pdb

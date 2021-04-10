@@ -1,0 +1,16 @@
+C:\Users\besmi\Development\TTU-DefaultFileAssociations\obj\Debug\net5.0-windows\TTU-DefaultFileAssociations.csprojAssemblyReference.cache
+C:\Users\besmi\Development\TTU-DefaultFileAssociations\obj\Debug\net5.0-windows\TTU-DefaultFileAssociations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\besmi\Development\TTU-DefaultFileAssociations\obj\Debug\net5.0-windows\TTU-DefaultFileAssociations.AssemblyInfoInputs.cache
+C:\Users\besmi\Development\TTU-DefaultFileAssociations\obj\Debug\net5.0-windows\TTU-DefaultFileAssociations.AssemblyInfo.cs
+C:\Users\besmi\Development\TTU-DefaultFileAssociations\obj\Debug\net5.0-windows\TTU-DefaultFileAssociations.csproj.CoreCompileInputs.cache
+C:\Users\besmi\Development\TTU-DefaultFileAssociations\bin\Debug\net5.0-windows\TTU-DefaultFileAssociations.exe
+C:\Users\besmi\Development\TTU-DefaultFileAssociations\bin\Debug\net5.0-windows\TTU-DefaultFileAssociations.deps.json
+C:\Users\besmi\Development\TTU-DefaultFileAssociations\bin\Debug\net5.0-windows\TTU-DefaultFileAssociations.runtimeconfig.json
+C:\Users\besmi\Development\TTU-DefaultFileAssociations\bin\Debug\net5.0-windows\TTU-DefaultFileAssociations.runtimeconfig.dev.json
+C:\Users\besmi\Development\TTU-DefaultFileAssociations\bin\Debug\net5.0-windows\TTU-DefaultFileAssociations.dll
+C:\Users\besmi\Development\TTU-DefaultFileAssociations\bin\Debug\net5.0-windows\ref\TTU-DefaultFileAssociations.dll
+C:\Users\besmi\Development\TTU-DefaultFileAssociations\bin\Debug\net5.0-windows\TTU-DefaultFileAssociations.pdb
+C:\Users\besmi\Development\TTU-DefaultFileAssociations\obj\Debug\net5.0-windows\TTU-DefaultFileAssociations.dll
+C:\Users\besmi\Development\TTU-DefaultFileAssociations\obj\Debug\net5.0-windows\ref\TTU-DefaultFileAssociations.dll
+C:\Users\besmi\Development\TTU-DefaultFileAssociations\obj\Debug\net5.0-windows\TTU-DefaultFileAssociations.pdb
+C:\Users\besmi\Development\TTU-DefaultFileAssociations\obj\Debug\net5.0-windows\TTU-DefaultFileAssociations.genruntimeconfig.cache

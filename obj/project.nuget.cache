@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VvZaZAi7ox12gpVBXRInjOfTwO2RxyJiOKEGayM4hp+FZ1UGwD+ocLwqolhRuThHvxx9luH6pfZNQQKkj8ll3A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\besmi\\Development\\TTU-DefaultFileAssociations\\TTU-DefaultFileAssociations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\besmi\\.nuget\\packages\\system.security.principal.windows\\5.0.0-rc.1.20451.14\\system.security.principal.windows.5.0.0-rc.1.20451.14.nupkg.sha512"
+  ],
+  "logs": []
+}

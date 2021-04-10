@@ -1,0 +1,5 @@
+C:\Users\besmi\Development\TTU-DefaultFileAssociations\obj\Debug\net5.0\win-x64\TTU-DefaultFileAssociations.csprojAssemblyReference.cache
+C:\Users\besmi\Development\TTU-DefaultFileAssociations\obj\Debug\net5.0\win-x64\TTU-DefaultFileAssociations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\besmi\Development\TTU-DefaultFileAssociations\obj\Debug\net5.0\win-x64\TTU-DefaultFileAssociations.AssemblyInfoInputs.cache
+C:\Users\besmi\Development\TTU-DefaultFileAssociations\obj\Debug\net5.0\win-x64\TTU-DefaultFileAssociations.AssemblyInfo.cs
+C:\Users\besmi\Development\TTU-DefaultFileAssociations\obj\Debug\net5.0\win-x64\TTU-DefaultFileAssociations.csproj.CoreCompileInputs.cache
